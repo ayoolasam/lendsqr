@@ -31,7 +31,7 @@
           class="name font-work-sans text-[16px] flex items-center gap-[8px] font-medium text-details"
         >
           <span>Adedeji</span>
-          <img src="../assets/vector-1.png" alt="vector" />
+          <img src="../assets/Vector-1.png" alt="vector" />
         </div>
       </div>
     </div>
