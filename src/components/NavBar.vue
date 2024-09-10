@@ -28,7 +28,7 @@
         />
         <img src="../assets/avatar.png" alt="user" />
         <div
-          class="name font-work-sans text-[16px] flex items-center gap-[8px] font-medium text-details"
+          class="name font-work-sans text-[15px] flex items-center gap-[8px] font-medium text-details"
         >
           <span>Adedeji</span>
           <img src="../assets/Vector-1.png" alt="vector" />
@@ -38,10 +38,6 @@
   </nav>
 </template>
 
-<script setup>
+<script setup></script>
 
-
-</script>
-
-<style scoped>
-</style>
+<style scoped></style>
