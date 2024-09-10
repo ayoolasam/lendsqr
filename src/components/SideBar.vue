@@ -12,7 +12,7 @@
         'rounded-full  w-[40px] h-[40px] flex items-center duration-1000  justify-center bg-lems absolute right-[5px] top-[20px]', !open ? 'left-[20px] ' : ''
       ]"
     >
-      <i :class="['fa-solid fa-angles-right text-select text-[22px]', open ? 'rotate-[-180deg]' : '']"></i>
+      <i :class="['fa-solid text-white fa-angles-right text-select text-[22px]', open ? 'rotate-[-180deg]' : '']"></i>
     </div>
     <div
       :class="['logo w-[144.8px] px-[20px] h-[30px]', !open ? 'scale-0' : '']"
