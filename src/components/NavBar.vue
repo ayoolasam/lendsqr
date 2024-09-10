@@ -11,7 +11,7 @@
       <div
         class="glass h-full bg-lems w-[56px] flex items-center justify-center rounded-tr-[8px] rounded-br-[8px]"
       >
-        <img src="../assets/vector.png" alt="magnifying glass" />
+        <img src="../assets/Vector.png" alt="magnifying glass" />
       </div>
     </div>
 
