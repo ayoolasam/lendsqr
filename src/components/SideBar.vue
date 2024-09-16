@@ -1,7 +1,7 @@
 <template>
   <div
     :class="[
-      'SideBar flex font-work-sans min-h-[1000px]  flex-col gap-[40px] duration-300 relative py-8 shadow-[0px_4px_10px_rgba(0,0,0,0.25)]',
+      'SideBar flex font-work-sans h-[100vh]  flex-col gap-[40px] duration-300 relative py-8 shadow-[0px_4px_10px_rgba(0,0,0,0.25)]',
       open ? 'w-[239px]' : 'w-20',
     ]"
   >
@@ -229,5 +229,12 @@ li {
 li:hover {
   border-left: 4px solid rgba(57, 205, 204, 1);
   background-color: rgb(243, 252, 252);
+}
+.items{
+  overflow-y: scroll;
+}
+
+.items::-webkit-scrollbar {
+  display: none; /* For Chrome, Safari, and Edge */
 }
 </style>
